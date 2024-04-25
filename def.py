@@ -2,8 +2,8 @@ def allegrova(name):
     print('Привет,', name)
 
 
-allegrova('Андрей')
-allegrova('Андрей')
+allegrova('Андрей!')
+allegrova('Андрей!')
 
 
 def allegrova_2(song):
